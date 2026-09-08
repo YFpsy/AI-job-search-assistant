@@ -20,7 +20,7 @@
 
 ```text
 请使用 skill-installer 安装这个 GitHub Skill：
-【https://github.com/YFpsy/AI-job-search-assistant.git】
+https://github.com/YFpsy/AI-job-search-assistant.git
 ```
 
 4. 安装完成后发送：
