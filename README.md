@@ -20,7 +20,7 @@
 
 ```text
 请使用 skill-installer 安装这个 GitHub Skill：
-【粘贴本仓库地址】
+【(https://github.com/YFpsy/AI-.git)】
 ```
 
 4. 安装完成后发送：
