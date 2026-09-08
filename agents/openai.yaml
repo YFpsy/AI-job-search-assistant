@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI 求职助手"
+  short_description: "用真实资料管理投递、准备面试并分析求职进展"
+  default_prompt: "使用 $ai-job-search-assistant 帮我建立并使用个人求职知识库。"
+
+policy:
+  allow_implicit_invocation: true
